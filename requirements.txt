@@ -1,0 +1,8 @@
+flask
+tensorflow
+streamlit
+requests
+nltk
+emoji
+contractions
+tqdm
